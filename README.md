@@ -6,9 +6,11 @@
 We are a passionate, creative, and **affordable** team of **4** talented individuals. We specialize in delivering high-quality digital solutions to make your ideas come to life. Let’s work together to create something amazing!
 
 ---
+
+### 🌐 **Our Expertise**
 </div>
-### 🌐 **Our Expertise:**
 #### Web Development  
+
 - Custom Websites 💻  
 - E-commerce Solutions 🛒  
 - Responsive Designs 📱  

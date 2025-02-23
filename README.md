@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🛠️ ServXflow Team 🚀
 
 Welcome to **ServXflow**! We are a passionate team of **4** talented individuals committed to providing **affordable** and **high-quality services** to meet all your digital needs. Our team specializes in:
@@ -26,9 +28,11 @@ Welcome to **ServXflow**! We are a passionate team of **4** talented individuals
 - **Collaborative**: We work with you every step of the way 🤝
 
 ### 🔥 **Our Team**
-- **John** – Web Developer 👨‍💻
-- **Emma** – Graphic Designer 🎨
+- **Seja menath** – Web Developer 👨‍💻
+- **Ravindu fernando** – Graphic Designer 🎨
 - **Lucas** – Content Specialist ✍️
 - **Sophia** – Project Manager 👩‍💼
 
 We’re here to make your digital dreams a reality! Let’s create something amazing together.
+
+</div>
